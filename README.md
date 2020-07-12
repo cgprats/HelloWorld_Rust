@@ -1,7 +1,7 @@
 # HelloWorld_Rust
 This is a "Hello World" style program Highlighting Many Common Programming Functions in the Rust Language. This is to be Used as Reference Material for More Complicated Programs
 
-Hard Requirements: **Rustc**
+Hard Requirements: **rustc**
 
 Optional Requirements: **make build-essential**
 
