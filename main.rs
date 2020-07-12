@@ -4,7 +4,7 @@
  * to be Used as Reference Material for
  * More Complicated Programs
  *
- * Hard Requirements: Rustc
+ * Hard Requirements: rustc
  * Optional Requirements: make build-essential
  * 
  * To Compile run the following command on *nix
